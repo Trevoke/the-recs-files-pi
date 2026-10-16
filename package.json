@@ -1,0 +1,15 @@
+{
+  "name": "the-recs-files-pi",
+  "version": "1.0.0-beta",
+  "description": "Skills for working on a project whose records are the source of truth.",
+  "license": "MIT",
+  "repository": "https://github.com/Trevoke/the-recs-files",
+  "keywords": [
+    "pi-package"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
